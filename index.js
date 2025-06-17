@@ -3,7 +3,7 @@ const timelabel = document.getElementById("timelabel");
 
 function updateLabel() {
     //window.location.reload();
-    consol.log("refresh");
+    console.log("refresh");
 }
 
 setInterval(updateLabel, 80000);

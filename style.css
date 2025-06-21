@@ -1,5 +1,6 @@
 
 body{
+    zoom: 30%;
     background-image: url("MinecraftZug.webp");
     background-repeat: no-repeat;
     background-attachment: fixed;
